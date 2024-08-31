@@ -1,7 +1,7 @@
 package org.amazon;
 
 /**
- * Hello world!
+ * Hello world! -> change for poll SCM
  *
  */
 public class App 
